@@ -1,8 +1,4 @@
 pipeline {
-
-  environment {
-  }
-
   agent any
 
   stages {
