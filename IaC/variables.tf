@@ -1,5 +1,5 @@
 variable "resource-group-name" {
-  default = "1-14d26164-playground-sandbox"
+  default = "1-707d97ac-playground-sandbox"
 }
 
 variable "node-vm-size" {
