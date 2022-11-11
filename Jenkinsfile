@@ -1,5 +1,5 @@
 pipeline {
-  agent inboundagent
+  agent any
 
   stages {
     stage ('Deploy App') {
